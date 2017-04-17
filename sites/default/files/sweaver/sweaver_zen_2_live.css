@@ -1,0 +1,30 @@
+.layout-center .layout-3col {
+  background-image: url(/sites/default/files/sweaver/sweaver_image_10.jpg);
+  background-position: 50% 50%;
+  background-attachment: fixed;
+}
+
+.field-item p {
+  color: #faf7fa;
+}
+
+#block-imageblock-1 h2 {
+  color: #ffffff;
+}
+
+h2 a {
+  color: #ffffff;
+}
+
+#block-system-navigation h2 {
+  color: #f7f2f7;
+}
+
+p span {
+  color: #ffffff;
+}
+
+ul li {
+  color: #ffffff;
+}
+
